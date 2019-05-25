@@ -9,6 +9,7 @@ public class Main {
 		Person p = new Person("Usama","Ilyas","4569874",'M',"Kunjah","090078601",19);
 		
 		System.out.println(p.toString());
+		//PakistanZindabad
 
 	}
 
