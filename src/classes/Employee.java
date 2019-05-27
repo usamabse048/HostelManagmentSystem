@@ -2,7 +2,7 @@ package classes;
 
 public class Employee extends Person
 {
-	private String serviceId;
+	private String serviceId;   
 	private double salary;
 	
 	//constructor
