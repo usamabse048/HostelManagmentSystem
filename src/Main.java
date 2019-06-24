@@ -1,16 +1,12 @@
-import javax.swing.*;
-
-import classes.Person;
-
+import java.util.ArrayList;
+import java.io.*;
 public class Main {
 
 	public static void main(String[] args) 
 	{
-		Person p = new Person("Usama","Ilyas","4569874",'M',"Kunjah","090078601",19);
+		MainFrame mf = new MainFrame();		
 		
-		System.out.println(p.toString());
-		//PakistanZindabad
-
+		
 	}
 
 }
